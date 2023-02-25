@@ -1,0 +1,37 @@
+body {
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.question {
+    width: 223px;
+    background: lightblue;
+    padding: 10px;
+    border-radius: 8px;
+    margin: 30px auto;
+    flex-flow: row wrap;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+.answer {
+    text-align: center;
+    width: 223px;
+    background: lightpink;
+    padding: 10px;
+    border-radius: 8px;
+    margin: 30px auto;
+    flex-flow: row wrap;
+    font-family: Arial, sans-serif;
+}
+.result {
+    width: 223px;
+    background: lightgreen;
+    padding: 10px;
+    border-radius: 8px;
+    margin: 30px auto;
+    flex-flow: row wrap;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
