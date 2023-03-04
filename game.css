@@ -5,6 +5,11 @@ body {
     font-family: Arial, sans-serif;
 }
 
+input {
+    max-width: 100%;
+    box-sizing: border-box;
+}
+
 .question {
     width: 223px;
     background: lightblue;
