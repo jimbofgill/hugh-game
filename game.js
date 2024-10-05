@@ -4,7 +4,7 @@ const result = document.querySelector(".result");
 
 var num_to_double = 0;
 const set_question = () => {
-    num_to_double = Math.floor(Math.random() * 500) + 1;
+    num_to_double = Math.floor(Math.random() * 5000) + 1;
 
     // This makes testing easier!
     //num_to_double = Math.floor(Math.random() * 5) + 1;
